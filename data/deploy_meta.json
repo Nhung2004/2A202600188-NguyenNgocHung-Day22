@@ -1,0 +1,10 @@
+{
+  "compute_tier": "T4",
+  "base_model": "unsloth/Qwen2.5-3B-bnb-4bit",
+  "merged_path": "/content/drive/MyDrive/lab22/adapters/merged-fp16",
+  "gguf_path": "/content/drive/MyDrive/lab22/gguf_gguf/Qwen2.5-3B.Q4_K_M.gguf",
+  "gguf_size_mb": 1929.9,
+  "quantization": "q4_k_m",
+  "smoke_prompt": "Giải thích ngắn gọn (3 câu) cách thuật toán Bubble sort hoạt động.",
+  "smoke_response": "Bubble sort là một thuật toán sắp xếp đơn giản, hoạt động bằng cách lặp lại quá trình so sánh và đổi chỗ các phần tử trong danh sách cho đến khi danh sách được sắp xếp. Cụ thể, thuật toán này sẽ lặp lại quá trình so sánh và đổi chỗ các phần tử trong danh sách cho đến khi không còn cần phải so sánh và đổi chỗ nữa. Cụ thể, thuật toán này sẽ lặp lại quá trình so sánh và đổi chỗ các phần tử trong danh sách cho đến khi không còn cần phải so sánh và đổi chỗ nữa. Cụ thể, thuật toán này sẽ lặp lại quá trình so sánh và đổi chỗ các phần tử trong danh sách cho đến khi không còn cần phải so sánh và đổi chỗ nữa. Cụ thể, thuật toán này sẽ lặp lại quá trình so sánh và đổi chỗ các phần tử trong danh sách cho đến khi không còn cần phải so sánh và đổi chỗ nữa"
+}
